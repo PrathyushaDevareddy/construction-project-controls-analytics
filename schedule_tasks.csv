@@ -1,0 +1,121 @@
+task_id,project_id,task_name,discipline,planned_start,planned_finish,actual_finish,percent_complete,task_status
+P1001-T01,P1001,Civil Phase 1,Civil,2025-01-09,2025-01-28,,0.38,Not Started
+P1001-T02,P1001,Civil Phase 2,Civil,2025-02-12,2025-03-23,2025-03-23,1,Complete
+P1001-T03,P1001,Civil Phase 3,Civil,2025-03-04,2025-04-08,,0.71,Not Started
+P1001-T04,P1001,Civil Phase 4,Civil,2025-04-09,2025-05-03,,0.47,Delayed
+P1001-T05,P1001,Civil Phase 5,Civil,2025-05-08,2025-05-29,2025-06-01,1,Complete
+P1001-T06,P1001,Structural Phase 1,Structural,2025-01-17,2025-02-15,2025-02-20,1,Complete
+P1001-T07,P1001,Structural Phase 2,Structural,2025-02-11,2025-03-10,,0.25,Not Started
+P1001-T08,P1001,Structural Phase 3,Structural,2025-03-13,2025-04-01,,0.36,In Progress
+P1001-T09,P1001,Structural Phase 4,Structural,2025-04-03,2025-04-30,2025-05-06,1,Complete
+P1001-T10,P1001,Structural Phase 5,Structural,2025-04-29,2025-05-21,,0.24,Delayed
+P1001-T11,P1001,Mechanical Phase 1,Mechanical,2025-01-08,2025-02-18,,0.33,Not Started
+P1001-T12,P1001,Mechanical Phase 2,Mechanical,2025-02-05,2025-03-07,,0.28,Not Started
+P1001-T13,P1001,Mechanical Phase 3,Mechanical,2025-03-10,2025-04-05,2025-04-11,1,Complete
+P1001-T14,P1001,Mechanical Phase 4,Mechanical,2025-04-07,2025-04-26,,0.46,Delayed
+P1001-T15,P1001,Mechanical Phase 5,Mechanical,2025-05-01,2025-06-09,2025-06-11,1,Complete
+P1001-T16,P1001,Electrical Phase 1,Electrical,2025-01-10,2025-02-18,2025-02-21,1,Complete
+P1001-T17,P1001,Electrical Phase 2,Electrical,2025-02-05,2025-03-14,,0.27,In Progress
+P1001-T18,P1001,Electrical Phase 3,Electrical,2025-03-10,2025-04-06,2025-04-09,1,Complete
+P1001-T19,P1001,Electrical Phase 4,Electrical,2025-03-31,2025-04-25,,0.66,In Progress
+P1001-T20,P1001,Electrical Phase 5,Electrical,2025-05-05,2025-06-15,,0.64,In Progress
+P1001-T21,P1001,Instrumentation Phase 1,Instrumentation,2025-01-17,2025-02-14,,0.25,In Progress
+P1001-T22,P1001,Instrumentation Phase 2,Instrumentation,2025-02-06,2025-03-02,2025-03-02,1,Complete
+P1001-T23,P1001,Instrumentation Phase 3,Instrumentation,2025-03-11,2025-04-07,,0.85,Delayed
+P1001-T24,P1001,Instrumentation Phase 4,Instrumentation,2025-04-08,2025-05-08,,0.78,In Progress
+P1001-T25,P1001,Instrumentation Phase 5,Instrumentation,2025-05-07,2025-06-10,,0.65,Delayed
+P1001-T26,P1001,Commissioning Phase 1,Commissioning,2025-01-17,2025-02-17,2025-02-20,1,Complete
+P1001-T27,P1001,Commissioning Phase 2,Commissioning,2025-02-11,2025-03-17,2025-03-17,1,Complete
+P1001-T28,P1001,Commissioning Phase 3,Commissioning,2025-03-03,2025-03-31,,0.49,Not Started
+P1001-T29,P1001,Commissioning Phase 4,Commissioning,2025-03-31,2025-05-08,,0.15,In Progress
+P1001-T30,P1001,Commissioning Phase 5,Commissioning,2025-05-07,2025-06-07,2025-06-09,1,Complete
+P1002-T01,P1002,Civil Phase 1,Civil,2025-02-05,2025-03-06,,0.42,Delayed
+P1002-T02,P1002,Civil Phase 2,Civil,2025-03-09,2025-04-07,,0.26,Delayed
+P1002-T03,P1002,Civil Phase 3,Civil,2025-04-02,2025-05-01,,0.3,Not Started
+P1002-T04,P1002,Civil Phase 4,Civil,2025-05-08,2025-06-02,,0.18,Delayed
+P1002-T05,P1002,Civil Phase 5,Civil,2025-05-30,2025-06-21,,0.52,Not Started
+P1002-T06,P1002,Structural Phase 1,Structural,2025-02-11,2025-03-07,2025-03-07,1,Complete
+P1002-T07,P1002,Structural Phase 2,Structural,2025-03-04,2025-03-23,2025-03-27,1,Complete
+P1002-T08,P1002,Structural Phase 3,Structural,2025-04-07,2025-04-26,,0.38,In Progress
+P1002-T09,P1002,Structural Phase 4,Structural,2025-05-09,2025-05-30,,0.2,Delayed
+P1002-T10,P1002,Structural Phase 5,Structural,2025-05-31,2025-07-01,2025-07-06,1,Complete
+P1002-T11,P1002,Mechanical Phase 1,Mechanical,2025-02-10,2025-03-05,,0.19,Not Started
+P1002-T12,P1002,Mechanical Phase 2,Mechanical,2025-03-08,2025-04-07,,0.43,Not Started
+P1002-T13,P1002,Mechanical Phase 3,Mechanical,2025-04-04,2025-05-07,,0.49,Delayed
+P1002-T14,P1002,Mechanical Phase 4,Mechanical,2025-05-05,2025-06-04,,0.78,Delayed
+P1002-T15,P1002,Mechanical Phase 5,Mechanical,2025-06-04,2025-07-01,2025-07-01,1,Complete
+P1002-T16,P1002,Electrical Phase 1,Electrical,2025-02-04,2025-02-23,,0.5,Not Started
+P1002-T17,P1002,Electrical Phase 2,Electrical,2025-03-14,2025-04-18,,0.46,In Progress
+P1002-T18,P1002,Electrical Phase 3,Electrical,2025-04-07,2025-05-05,,0.61,Delayed
+P1002-T19,P1002,Electrical Phase 4,Electrical,2025-05-05,2025-06-02,,0.61,In Progress
+P1002-T20,P1002,Electrical Phase 5,Electrical,2025-05-28,2025-06-22,,0.22,Not Started
+P1002-T21,P1002,Instrumentation Phase 1,Instrumentation,2025-02-08,2025-03-16,,0.87,Delayed
+P1002-T22,P1002,Instrumentation Phase 2,Instrumentation,2025-03-06,2025-03-28,,0.43,Not Started
+P1002-T23,P1002,Instrumentation Phase 3,Instrumentation,2025-04-05,2025-05-10,,0.85,Delayed
+P1002-T24,P1002,Instrumentation Phase 4,Instrumentation,2025-04-28,2025-06-04,2025-06-06,1,Complete
+P1002-T25,P1002,Instrumentation Phase 5,Instrumentation,2025-05-26,2025-06-30,,0.83,Not Started
+P1002-T26,P1002,Commissioning Phase 1,Commissioning,2025-02-04,2025-03-14,2025-03-18,1,Complete
+P1002-T27,P1002,Commissioning Phase 2,Commissioning,2025-03-03,2025-03-25,2025-03-28,1,Complete
+P1002-T28,P1002,Commissioning Phase 3,Commissioning,2025-04-03,2025-04-30,2025-05-05,1,Complete
+P1002-T29,P1002,Commissioning Phase 4,Commissioning,2025-05-06,2025-06-13,,0.44,Delayed
+P1002-T30,P1002,Commissioning Phase 5,Commissioning,2025-06-04,2025-07-01,2025-07-02,1,Complete
+P1003-T01,P1003,Civil Phase 1,Civil,2025-01-25,2025-03-04,,0.85,Delayed
+P1003-T02,P1003,Civil Phase 2,Civil,2025-02-28,2025-04-01,2025-04-01,1,Complete
+P1003-T03,P1003,Civil Phase 3,Civil,2025-03-23,2025-04-16,,0.84,Not Started
+P1003-T04,P1003,Civil Phase 4,Civil,2025-04-20,2025-05-26,,0.4,Delayed
+P1003-T05,P1003,Civil Phase 5,Civil,2025-05-20,2025-06-15,,0.16,In Progress
+P1003-T06,P1003,Structural Phase 1,Structural,2025-01-24,2025-03-06,,0.69,Not Started
+P1003-T07,P1003,Structural Phase 2,Structural,2025-02-21,2025-03-17,2025-03-18,1,Complete
+P1003-T08,P1003,Structural Phase 3,Structural,2025-03-22,2025-04-14,2025-04-27,1,Complete
+P1003-T09,P1003,Structural Phase 4,Structural,2025-04-20,2025-05-17,2025-05-18,1,Complete
+P1003-T10,P1003,Structural Phase 5,Structural,2025-05-12,2025-06-07,2025-06-12,1,Complete
+P1003-T11,P1003,Mechanical Phase 1,Mechanical,2025-01-20,2025-03-01,2025-03-16,1,Complete
+P1003-T12,P1003,Mechanical Phase 2,Mechanical,2025-02-20,2025-04-02,2025-04-02,1,Complete
+P1003-T13,P1003,Mechanical Phase 3,Mechanical,2025-03-20,2025-04-22,2025-05-03,1,Complete
+P1003-T14,P1003,Mechanical Phase 4,Mechanical,2025-04-19,2025-05-19,2025-05-23,1,Complete
+P1003-T15,P1003,Mechanical Phase 5,Mechanical,2025-05-21,2025-06-22,2025-06-24,1,Complete
+P1003-T16,P1003,Electrical Phase 1,Electrical,2025-01-25,2025-03-01,,0.76,In Progress
+P1003-T17,P1003,Electrical Phase 2,Electrical,2025-02-24,2025-03-30,,0.17,In Progress
+P1003-T18,P1003,Electrical Phase 3,Electrical,2025-03-18,2025-04-06,2025-04-16,1,Complete
+P1003-T19,P1003,Electrical Phase 4,Electrical,2025-04-14,2025-05-11,,0.84,In Progress
+P1003-T20,P1003,Electrical Phase 5,Electrical,2025-05-21,2025-06-16,,0.23,Not Started
+P1003-T21,P1003,Instrumentation Phase 1,Instrumentation,2025-01-23,2025-03-01,,0.8,Not Started
+P1003-T22,P1003,Instrumentation Phase 2,Instrumentation,2025-02-25,2025-03-20,2025-04-03,1,Complete
+P1003-T23,P1003,Instrumentation Phase 3,Instrumentation,2025-03-28,2025-04-28,2025-04-29,1,Complete
+P1003-T24,P1003,Instrumentation Phase 4,Instrumentation,2025-04-23,2025-05-13,2025-05-30,1,Complete
+P1003-T25,P1003,Instrumentation Phase 5,Instrumentation,2025-05-23,2025-06-26,,0.83,Not Started
+P1003-T26,P1003,Commissioning Phase 1,Commissioning,2025-01-25,2025-02-23,2025-03-09,1,Complete
+P1003-T27,P1003,Commissioning Phase 2,Commissioning,2025-02-22,2025-03-21,2025-03-26,1,Complete
+P1003-T28,P1003,Commissioning Phase 3,Commissioning,2025-03-28,2025-05-07,,0.27,In Progress
+P1003-T29,P1003,Commissioning Phase 4,Commissioning,2025-04-18,2025-05-17,2025-06-03,1,Complete
+P1003-T30,P1003,Commissioning Phase 5,Commissioning,2025-05-15,2025-06-05,,0.33,Not Started
+P1004-T01,P1004,Civil Phase 1,Civil,2025-03-14,2025-04-10,2025-04-16,1,Complete
+P1004-T02,P1004,Civil Phase 2,Civil,2025-04-08,2025-05-04,,0.75,In Progress
+P1004-T03,P1004,Civil Phase 3,Civil,2025-05-03,2025-05-27,,0.41,In Progress
+P1004-T04,P1004,Civil Phase 4,Civil,2025-06-05,2025-07-04,,0.81,In Progress
+P1004-T05,P1004,Civil Phase 5,Civil,2025-07-01,2025-07-27,2025-08-03,1,Complete
+P1004-T06,P1004,Structural Phase 1,Structural,2025-03-03,2025-04-11,2025-04-18,1,Complete
+P1004-T07,P1004,Structural Phase 2,Structural,2025-04-05,2025-05-10,,0.53,Delayed
+P1004-T08,P1004,Structural Phase 3,Structural,2025-05-02,2025-06-01,,0.26,Delayed
+P1004-T09,P1004,Structural Phase 4,Structural,2025-05-31,2025-07-05,,0.49,Delayed
+P1004-T10,P1004,Structural Phase 5,Structural,2025-06-23,2025-07-27,,0.58,In Progress
+P1004-T11,P1004,Mechanical Phase 1,Mechanical,2025-03-08,2025-04-10,,0.83,In Progress
+P1004-T12,P1004,Mechanical Phase 2,Mechanical,2025-04-09,2025-05-17,2025-05-21,1,Complete
+P1004-T13,P1004,Mechanical Phase 3,Mechanical,2025-05-06,2025-06-14,2025-06-20,1,Complete
+P1004-T14,P1004,Mechanical Phase 4,Mechanical,2025-05-29,2025-06-26,,0.74,In Progress
+P1004-T15,P1004,Mechanical Phase 5,Mechanical,2025-07-02,2025-08-08,,0.19,In Progress
+P1004-T16,P1004,Electrical Phase 1,Electrical,2025-03-14,2025-04-18,2025-04-23,1,Complete
+P1004-T17,P1004,Electrical Phase 2,Electrical,2025-04-06,2025-05-17,,0.39,In Progress
+P1004-T18,P1004,Electrical Phase 3,Electrical,2025-05-09,2025-06-08,,0.38,Delayed
+P1004-T19,P1004,Electrical Phase 4,Electrical,2025-05-27,2025-06-25,2025-06-29,1,Complete
+P1004-T20,P1004,Electrical Phase 5,Electrical,2025-06-30,2025-08-10,,0.77,In Progress
+P1004-T21,P1004,Instrumentation Phase 1,Instrumentation,2025-03-07,2025-03-29,,0.46,Delayed
+P1004-T22,P1004,Instrumentation Phase 2,Instrumentation,2025-04-10,2025-05-19,,0.7,In Progress
+P1004-T23,P1004,Instrumentation Phase 3,Instrumentation,2025-05-01,2025-06-11,2025-06-11,1,Complete
+P1004-T24,P1004,Instrumentation Phase 4,Instrumentation,2025-05-27,2025-06-25,,0.63,In Progress
+P1004-T25,P1004,Instrumentation Phase 5,Instrumentation,2025-07-04,2025-08-14,2025-08-16,1,Complete
+P1004-T26,P1004,Commissioning Phase 1,Commissioning,2025-03-06,2025-03-28,2025-03-31,1,Complete
+P1004-T27,P1004,Commissioning Phase 2,Commissioning,2025-04-05,2025-05-12,2025-05-16,1,Complete
+P1004-T28,P1004,Commissioning Phase 3,Commissioning,2025-04-30,2025-06-04,,0.58,Not Started
+P1004-T29,P1004,Commissioning Phase 4,Commissioning,2025-06-01,2025-07-01,,0.72,Not Started
+P1004-T30,P1004,Commissioning Phase 5,Commissioning,2025-06-24,2025-07-25,2025-07-27,1,Complete
