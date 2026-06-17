@@ -72,6 +72,12 @@ Analyze synthetic construction project data to answer:
 - Chart-based visual reporting
 - Multi-sheet workbook structure
 
+## Key Insights
+
+- The project portfolio is over budget because total actual cost is higher than total planned cost.
+- Instrumentation has the highest actual cost among all disciplines.
+- SQL queries help identify project-level cost variance and potential schedule or procurement risks.
+  
 ## Business Value
 
 This project demonstrates how a data analyst can combine multiple project control datasets and create reporting outputs that help leadership monitor cost, schedule, labor, and procurement risk.
